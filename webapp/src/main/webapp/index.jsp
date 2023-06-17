@@ -1,4 +1,4 @@
-<h1> Hello, Welcome to Simple DevOps Project AMANDA!!   </h1>
+<h1> Hello, Welcome to Simple DevOps Project    </h1>
 <h2> this is really awesome when i am getting everything right </h2>
 <h2> Glad to see you here as well </h2>
 <h1> Good job Serge on showing us the light</h1>
